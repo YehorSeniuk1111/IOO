@@ -38,5 +38,6 @@
 ## <a name="2.3">2.3 Діаграма станів</a>
 <img src="img/StateDiagram.png"></img>
 ## <a name="2.4">2.4 Діаграма зв'язку пакетів</a>
+<img src="img/PackageDiagram.png"></img>
 ---
 ## <a>3.Програмна реалізація</a>
