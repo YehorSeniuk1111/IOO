@@ -113,6 +113,11 @@
 ---
 # <a name="2">2. Проектування</a>
 ## <a name="2.1">2.1 Діаграми взаємодії</a>
+<img src="img/start.png"></img>
+<img src="img/makePayment.png"></img>
+<img src="img/endSale.png"></img>
+<img src="img/enterItme.png"></img>
+<img src="img/makeNewSale.png"></img>
 ## <a name="2.2">2.2 Діаграма класів</a>
 <img src="img/ClassDiagram.png"></img>
 ## <a name="2.3">2.3 Діаграма станів</a>
