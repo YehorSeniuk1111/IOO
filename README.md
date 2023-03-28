@@ -28,6 +28,7 @@
 # <a name="1">1. Аналіз</a>
 ## <a name="1.1">1.1 Опис перецедентів</a>
 ## <a name="1.2">1.2 Діаграми прецедентів</a>
+<img src="img/SequenceDiagram.png"></img>
 ## <a name="1.3">1.3 Модель предметної області</a>
 <img src="img/DomainModel.png"/></img>
 ## <a name="1.4">1.4 Модель прецедентів. Опис системних подій</a>
@@ -38,6 +39,6 @@
 ## <a name="2.3">2.3 Діаграма станів</a>
 <img src="img/StateDiagram.png"></img>
 ## <a name="2.4">2.4 Діаграма зв'язку пакетів</a>
-<img src="img/PackageDiagram.png"></img>
+<img src="img/PackagesDiagram.png"></img>
 ---
 ## <a>3.Програмна реалізація</a>
