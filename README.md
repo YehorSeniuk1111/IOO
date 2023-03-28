@@ -73,6 +73,7 @@
 > 9а. Генерація чека. <br/>
 > 9б. Покупець просить видати йоу подарунковий чек (без вказання ціни) <br/>
 ## <a name="1.2">1.2 Діаграми прецедентів</a>
+<img src="img/UseCaseDiagram.png"></img>
 <img src="img/SequenceDiagram.png"></img>
 ## <a name="1.3">1.3 Модель предметної області</a>
 <img src="img/DomainModel.png"/></img>
