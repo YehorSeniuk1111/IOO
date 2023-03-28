@@ -36,7 +36,7 @@
 # <a name="2">2. Проектування</a>
 ## <a name="2.1">2.1 Діаграми взаємодії</a>
 ## <a name="2.2">2.2 Діаграма класів</a>
-<img src="img/ClassDiagram"></img>
+<img src="img/ClassDiagram.png"></img>
 ## <a name="2.3">2.3 Діаграма станів</a>
 <img src="img/StateDiagram.png"></img>
 ## <a name="2.4">2.4 Діаграма зв'язку пакетів</a>
