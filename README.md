@@ -116,7 +116,7 @@
 <img src="img/start.png"></img>
 <img src="img/makePayment.png"></img>
 <img src="img/endSale.png"></img>
-<img src="img/enterItme.png"></img>
+<img src="img/enterItem.png"></img>
 <img src="img/makeNewSale.png"></img>
 ## <a name="2.2">2.2 Діаграма класів</a>
 <img src="img/ClassDiagram.png"></img>
