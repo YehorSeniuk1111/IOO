@@ -6,6 +6,7 @@
 |ІО-11|Грень Ірина Сергіївна     |@IrinaGren|gren.ira10@gmail.com|
 |ІО-11|Лоханько Ксенія Вікторівна|@mavpenyatko_K|kseniyalah@gmail.com|
 |ІО-11|Сірук Вікторія Вікторівна |@Viktoriasiruk|viktoriasiruk46@gmail.com|
+|ІО-11|Федосєєва Олена Дмитрівна |@HelenFeds|fedosieieva.olena@lll.kpi.ua|
 |ІО-11|Сенюк Єгор Олександрович  |@YehorSeniuk|seniuk.yehor@gmail.com|
 ---
 # Короткий зміст
